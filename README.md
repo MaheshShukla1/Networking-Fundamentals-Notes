@@ -3,6 +3,8 @@
 
 ## [OSI MODEL & TCP/IP MODEL](https://github.com/MaheshShukla1/Networking-notes-101/wiki/OSI-MODEL-AND-TCP-IP-MODEL)
 
+## [IP SUBNETTING AND CIDR NOTATION](https://github.com/MaheshShukla1/Networking-notes-101/wiki/IP-Subnetting-CIDR-Notation#ipv6-subnetting)
+
 About the Notes
 These notes are a result of Mahesh Shukla's journey in learning about networking and open source technologies. They cover a range of topics, including:
 
