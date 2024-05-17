@@ -21,7 +21,7 @@ How to Use This Repository
 To get started with these notes, simply browse through the folders and files in this repository. Each topic is organized for easy navigation, making it convenient to find information on specific subjects.
 
 💳 Credits
-Mahesh Shukla acknowledges any sources or references if applicable for their valuable resources that aided in the creation of these notes.
+Mahesh Shukla acknowledges any sources or references if applicable for their valuable resources that added in the creation of these notes.
 
 ## License
 
