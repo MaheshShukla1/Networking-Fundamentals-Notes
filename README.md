@@ -1,6 +1,7 @@
 Introduction to Networking and Open Source
 Welcome to my repository! Here, you'll find my handwritten notes on networking and open source topics created by Mahesh Shukla. These notes are designed to provide a comprehensive understanding of fundamental concepts in networking and the significance of open source software in today's tech landscape.
 
+[Introduction To Networking](https://github.com/MaheshShukla1/Networking-notes-101/wiki/Introduction-to-Networking#network-devices)
 About the Notes
 These notes are a result of Mahesh Shukla's journey in learning about networking and open source technologies. They cover a range of topics, including:
 
