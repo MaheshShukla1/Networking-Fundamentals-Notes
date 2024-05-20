@@ -5,6 +5,8 @@
 
  ## [IP SUBNETTING AND CIDR NOTATION](https://github.com/MaheshShukla1/Networking-notes-101/wiki/IP-Subnetting-CIDR-Notation#ipv6-subnetting)
 
+ ## [Network Address Translation (NAT)](https://github.com/MaheshShukla1/Networking-notes-101/wiki/Network-Address-Translation)
+
 🚀 About the Notes
 These notes are a result of Mahesh Shukla's journey in learning about networking and open source technologies. They cover a range of topics, including:
 
