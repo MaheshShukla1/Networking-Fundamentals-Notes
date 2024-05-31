@@ -7,6 +7,8 @@
 
  ## [Network Address Translation (NAT)](https://github.com/MaheshShukla1/Networking-notes-101/wiki/Network-Address-Translation)
 
+ ## [Internetworking Basics: Protocols, Connectivity, and Future Trends](https://github.com/MaheshShukla1/Networking-notes-101/wiki/Internetworking-Basics:-Protocols,-Connectivity,-and-Future-Trends)
+
 # Networking Notes 101
 
 Welcome to Networking Notes 101! This repository contains comprehensive notes covering the fundamentals of networking.
