@@ -12,6 +12,8 @@
 
  ## [Internetworking Basics: Protocols, Connectivity, and Future Trends](https://github.com/MaheshShukla1/Networking-notes-101/wiki/Internetworking-Basics:-Protocols,-Connectivity,-and-Future-Trends)
 
+ ## [Networking Fundamentals: TCP vs UDP, Routing, And Wireless Networks](https://github.com/MaheshShukla1/Networking-Fundamentals-Notes/wiki/Networking-Fundamentals:-TCP-vs-UDP,-Routing,-and-Wireless-Networks)
+
 ## What's Included? 📚
 * 💻 Basics of Networking: Understand the fundamental principles of networking, including communication protocols, data transmission, and network topologies.
 
