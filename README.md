@@ -14,6 +14,8 @@
 
  ## [Networking Fundamentals: TCP vs UDP, Routing, And Wireless Networks](https://github.com/MaheshShukla1/Networking-Fundamentals-Notes/wiki/Networking-Fundamentals:-TCP-vs-UDP,-Routing,-and-Wireless-Networks)
 
+ ## [Network Redundancy and load balancing](https://github.com/MaheshShukla1/Networking-Fundamentals-Notes/wiki/Network-Redundancy-and-load-balancing)
+
 ## What's Included? 📚
 * 💻 Basics of Networking: Understand the fundamental principles of networking, including communication protocols, data transmission, and network topologies.
 
