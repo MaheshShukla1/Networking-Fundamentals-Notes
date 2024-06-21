@@ -16,6 +16,8 @@
 
  ## [Network Redundancy and load balancing](https://github.com/MaheshShukla1/Networking-Fundamentals-Notes/wiki/Network-Redundancy-and-load-balancing)
 
+ ## [Firewall & IDS IPS](https://github.com/MaheshShukla1/Networking-Fundamentals-Notes/wiki/Firewall-&-IDS-IPS)
+
 ## What's Included? 📚
 * 💻 Basics of Networking: Understand the fundamental principles of networking, including communication protocols, data transmission, and network topologies.
 
