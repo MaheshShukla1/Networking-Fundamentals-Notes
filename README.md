@@ -1,5 +1,5 @@
 # Introduction to Networking 
-* Welcome to the Introduction to Networking repository! These notes are designed to provide a beginner-friendly yet comprehensive understanding of networking concepts, from the basics to more advanced topics. Let's dive in! 🚀
+* #### Welcome to the Introduction to Networking repository! These notes are designed to provide a beginner-friendly yet comprehensive understanding of networking concepts, from the basics to more advanced topics. Let's dive in! 🚀
   
  ## [Introduction To Networking](https://github.com/MaheshShukla1/Networking-notes-101/wiki/Introduction-to-Networking#network-devices)
 
